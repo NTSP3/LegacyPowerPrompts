@@ -1,0 +1,13 @@
+0 X. FIX ERROR "RUNTIME ERROR" WHEN THE VALUE IN "LOGOFFWINDOW" IS NOTHING
+1. Complete whistler shutdown
+2. Put song on the easter egg window
+3 X. make easter egg window functional
+4 X. Create an installer
+5 X. check if nsp.exe exist before launching lpp 
+6: 
+  -Name the main shutdown screen lpp program as ltxmain.sup within the installer.
+  -Name the config app as "ltxdom.sup"
+  -Name nsp.exe as "nac.sup"
+7 X. End the whistler shutdown screen after the user presses an option.
+8 X. Put the final result in a .7z file instead of a .zip files
+9. Make the option to have the whistler shutdown menu animated (shutdown flag comes from the left, banner animated, shutdown bar from w2k is installed.)

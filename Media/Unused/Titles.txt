@@ -1,0 +1,6 @@
+Win3Reference = "Exit Windows"
+Win9xReference + WinNT4 + Win2k = "Shut Down Windows"
+Win9xLogoffReference = "Log Off Windows"
+WinNT3.1LogoffReference = "Logoff Windows NT"
+WinNT3.xReference = "Shutdown Computer"
+WinNT3.5xLogoffReference = "Windows NT"

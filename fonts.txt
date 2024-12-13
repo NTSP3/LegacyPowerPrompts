@@ -1,0 +1,2 @@
+'LPP' Logo: Sylfaen (accidental slip-up when I was going to select 'System')
+Version String: Ubuntu

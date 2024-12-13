@@ -1,0 +1,1 @@
+Some shutdown screens don't move (eg., windows 2000) so check if any other winins shutdown screens are like that and modify lpp accordingly.
